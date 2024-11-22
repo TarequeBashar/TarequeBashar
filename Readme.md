@@ -1,6 +1,6 @@
 # Tareque Bashar Ovi
 
-🌐 [Google Scholar](#) | [ResearchGate](#) | 📧 [Email](#) | ![GitHub Followers](https://img.shields.io/github/followers/username?label=Followers) | ![GitHub Stars](https://img.shields.io/github/stars/username?label=Stars)
+🌐 [Google Scholar](https://scholar.google.com/citations?user=amnpQ4YAAAAJ&hl=en) | [ResearchGate](https://www.researchgate.net/profile/Tareque-Ovi) | 📧 [Email](ovitareque@gmail.com) | ![GitHub Followers](https://img.shields.io/github/followers/username?label=Followers) | ![GitHub Stars](https://img.shields.io/github/stars/username?label=Stars)
 
 ---
 
