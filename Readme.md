@@ -4,7 +4,7 @@
 
 ---
 
-**Ali Jamali** is an expert in satellite and airborne remote sensing research and development with a **Ph.D. in Geoinformatics**.
+**Tareque Bashar Ovi** 
 
 ## 🧑‍💼 About Me
 I specialize in cutting-edge methods for various remote sensing applications, including:
