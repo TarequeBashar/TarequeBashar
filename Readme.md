@@ -28,7 +28,7 @@ With extensive experience in both industrial and academic R&D, I have collaborat
 ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-gray) ![Anaconda](https://img.shields.io/badge/Anaconda-green) ![Keras](https://img.shields.io/badge/Keras-red) ![PyTorch](https://img.shields.io/badge/PyTorch-orange) ![TensorFlow](https://img.shields.io/badge/TensorFlow-blue)
 
 ## 📊 GitHub Stats
-![GitHub Streak Stats](https://streak-stats.demolab.com/?user=username)
+![GitHub Streak Stats](https://github.com/TarequeBashar?tab=stars)
 
 ---
 
